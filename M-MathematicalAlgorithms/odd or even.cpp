@@ -5,10 +5,10 @@ int main(){
 	cout<<"Please enter a number : ";
 	cin>>num;
 	if(num %2 == 0){
-		cout<<"This number is odd";
+		cout<<"This number is even";
 	}
 	else{
-		cout<<"This number is even";
+		cout<<"This number is odd";
 	}
 	return 0;
 }
